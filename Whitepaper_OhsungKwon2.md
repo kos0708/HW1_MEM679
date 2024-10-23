@@ -3,7 +3,7 @@
 ## Handwritten Chinese Character Recognition(HCCR)
 
 ### Basic Concept
-***" by drawing characters"***  
+***"Making able to find Chinese letters by drawing characters"***  
 When I studied Chinese characters(Japanese kanji), I struggled to find Chinese characters I didn't know. Since there is no way to write Chinese characters on a keyboard, I should have known the meaning or pronunciation of Chinese characters to find them on web dictionaries. At that time, I usually used HCCR tools from a dictionary website and drew a character using a mouse or touchpad. I have always been curious about how this technology works, and I found character recognition is one of the machine learning technologies while I was learning about it. So, through this MEM 679 class, I want to create an HCCR model using machine learning.
 
 > Reference
