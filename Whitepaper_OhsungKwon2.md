@@ -8,8 +8,10 @@ When I studied Chinese characters(Japanese kanji), I struggled to find Chinese c
 
 > Reference
 > - `Naver Hanja(Chinese character) dictionary` [link](https://hanja.dict.naver.com/#/main)
+>   
 > ![image](https://github.com/user-attachments/assets/0be92c9e-8386-443d-88a0-b7ece047f78f)
 > - `Building Light-weight CNN for HCCR Based on Inception modules` [link](https://kbhetrr.dev/project/hccr-using-inception/) [GitHub](https://github.com/kbhetrr/HandwrittenChineseCharacter-Recognition)
+> 
 > ![hippo](https://kbhetrr.dev/2db5e882862611105837f466123f73fb/hccr_model2.gif)
 
 ### Dataset information
